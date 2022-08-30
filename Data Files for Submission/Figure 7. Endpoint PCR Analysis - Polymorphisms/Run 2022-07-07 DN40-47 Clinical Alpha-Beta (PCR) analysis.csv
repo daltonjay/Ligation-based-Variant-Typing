@@ -1,0 +1,24 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-07-07 DN40-47 Clinical Alpha-Beta (PCR).rex"
+"Date","7/8/2022"
+"Time","7:02:17 AM"
+
+"Quantitative analysis of Cycling A.Yellow (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Yellow (Page 1)","1","Pos. Control (Delta)","Unknown","16.50","","","","16.50","","","",""
+"Cycling A.Yellow (Page 1)","2","DN40","Unknown","17.25","","","","17.25","","","",""
+"Cycling A.Yellow (Page 1)","3","DN41","Unknown","40.74","","","","40.74","","","",""
+"Cycling A.Yellow (Page 1)","4","DN42","Unknown","21.82","","","","21.82","","","",""
+"Cycling A.Yellow (Page 1)","5","DN43","Unknown","16.53","","","","16.53","","","",""
+"Cycling A.Yellow (Page 1)","6","DN44","Unknown","16.42","","","","16.42","","","",""
+"Cycling A.Yellow (Page 1)","7","DN45","Unknown","17.51","","","","17.51","","","",""
+"Cycling A.Yellow (Page 1)","8","DN46","Unknown","16.93","","","","16.93","","","",""
+"Cycling A.Yellow (Page 1)","9","DN47","Unknown","14.58","","","","14.58","","","",""
+"Cycling A.Yellow (Page 1)","10","Assay NTC","Unknown","","","","","","","","",""
+"Cycling A.Yellow (Page 1)","11","Lig Control","Unknown","","","","","","","","",""
+"Cycling A.Yellow (Page 1)","12","PCR Control","Unknown","","","","","","","","",""
+
+
+

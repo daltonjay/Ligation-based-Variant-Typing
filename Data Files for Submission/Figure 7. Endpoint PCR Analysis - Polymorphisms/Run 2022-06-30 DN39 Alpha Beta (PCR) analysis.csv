@@ -1,0 +1,16 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-06-30 DN39 Alpha Beta (PCR).rex"
+"Date","6/30/2022"
+"Time","8:29:10 AM"
+
+"Quantitative analysis of Cycling A.Yellow (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Yellow (Page 1)","1","Pos. Control (Delta)","Unknown","17.42","","","","17.42","","","",""
+"Cycling A.Yellow (Page 1)","2","DN39","Unknown","37.94","","","","37.94","","","",""
+"Cycling A.Yellow (Page 1)","3","DN39 (PCR Replicate)","Unknown","39.11","","","","39.11","","","",""
+"Cycling A.Yellow (Page 1)","4","Assay Control","Unknown","","","","","","","","",""
+
+
+

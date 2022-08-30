@@ -1,0 +1,12 @@
+29 August 2022
+
+The data prepared here corresponds to the key features presented in the main body of work.
+If necessary, reviewers / readers may request additional data where it is deemed fit.
+ 
+The data files are sorted by the figure and/or table that they are presented in.
+Raw data of endpoint PCR detection are provided in .csv / .xlsx files for reviewer interpretation.
+
+The data may be used to validate and understand the authors'  interpretations, but should not be
+used for other purposes without consent of the authors. 
+
+- Dalton J. Nelson

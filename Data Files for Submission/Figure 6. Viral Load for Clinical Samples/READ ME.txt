@@ -1,0 +1,7 @@
+29 August 2022
+
+Upon request and approval under the proper governing bodies, raw Hologic Panther data may be provided. 
+The excel file provided in this folder has the compiled results for each Panther run with the proper
+clinical samples and calibrators, which is likely sufficient for most interpretations and validations.
+
+Please reach the corresponding author if access is necessary.

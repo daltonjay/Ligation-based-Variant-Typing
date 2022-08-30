@@ -1,0 +1,32 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2010 QIAGEN GmbH. All Rights Reserved."
+"File","Run 2022-06-24 DN9-23 Clinical Samples Delta (PCR).rex"
+"Date","6/27/2022"
+"Time","8:05:52 AM"
+
+"Quantitative analysis of Cycling A.Red (Page 1)"
+
+"No.","Name","Type","Ct","Ct Comment","Given Conc (IU/ml)","Calc Conc (IU/ml)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"1","Omicron G. Irr (Likely neg here)","Unknown","","","","","","","","","",""
+"2","DN9","Unknown","","","","","","","","","",""
+"3","DN10","Unknown","","","","","","","","","",""
+"4","DN11","Unknown","","","","","","","","","",""
+"5","DN12","Unknown","","","","","","","","","",""
+"6","DN13","Unknown","","","","","","","","","",""
+"7","DN14","Unknown","12.78","","","","","12.78","","","",""
+"8","DN15","Unknown","13.24","","","","","13.24","","","",""
+"9","DN16","Unknown","13.31","","","","","13.31","","","",""
+"10","DN17","Unknown","13.04","","","","","13.04","","","",""
+"11","DN18","Unknown","13.16","","","","","13.16","","","",""
+"12","DN19","Unknown","13.40","","","","","13.40","","","",""
+"13","DN20","Unknown","","","","","","","","","",""
+"14","DN21","Unknown","20.56","","","","","20.56","","","",""
+"15","DN22","Unknown","","","","","","","","","",""
+"16","DN23","Unknown","20.87","","","","","20.87","","","",""
+"17","Assay Control","Unknown","","","","","","","","","",""
+"18","Lig Control","Unknown","","","","","","","","","",""
+"19","PCR Control","Unknown","","","","","","","","","",""
+"20","c","Unknown","","","","","","","","","",""
+
+
+

@@ -1,0 +1,22 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-06-22 DN5-8 Retrial Omicron Test (PCR).rex"
+"Date","6/22/2022"
+"Time","4:28:01 PM"
+
+"Quantitative analysis of Cycling A.Orange (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Orange (Page 1)","1","Pos. Control Omi gRNA 10^3","Unknown","13.51","","","","13.64","0.18","","",""
+"Cycling A.Orange (Page 1)","2","Pos. Control Omi gRNA 10^3","Unknown","13.77","","","","","","","",""
+"Cycling A.Orange (Page 1)","3","DN5","Unknown","14.80","","","","14.80","","","",""
+"Cycling A.Orange (Page 1)","4","DN6","Unknown","14.43","","","","14.43","","","",""
+"Cycling A.Orange (Page 1)","5","DN7","Unknown","14.15","","","","14.15","","","",""
+"Cycling A.Orange (Page 1)","6","DN8","Unknown","14.08","","","","14.08","","","",""
+"Cycling A.Orange (Page 1)","7","Assay Control (NTC)","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","8","Assay Control (NTC)","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","9","Lig Control","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","10","PCR Control","Unknown","","","","","","","","",""
+
+
+

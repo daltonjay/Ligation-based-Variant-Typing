@@ -1,0 +1,24 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-06-29 Clinical Samples DN24-30 39 Delta (PCR).rex"
+"Date","6/29/2022"
+"Time","2:21:35 PM"
+
+"Quantitative analysis of Cycling A.Red (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Red (Page 1)","1","Pos. Control Delta","Unknown","12.02","","","","12.02","","","",""
+"Cycling A.Red (Page 1)","2","DN24","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","3","DN25","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","4","DN26","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","5","DN27","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","6","DN28","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","7","DN29","Unknown","12.25","","","","12.25","","","",""
+"Cycling A.Red (Page 1)","8","DN30","Unknown","12.25","","","","12.25","","","",""
+"Cycling A.Red (Page 1)","9","DN39","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","10","Assay NTC","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","11","Lig Control","Unknown","","","","","","","","",""
+"Cycling A.Red (Page 1)","12","PCR Control","Unknown","","","","","","","","",""
+
+
+

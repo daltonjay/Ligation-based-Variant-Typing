@@ -1,0 +1,32 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-06-24 DN9-23 ALPHA (PCR).rex"
+"Date","6/27/2022"
+"Time","8:42:32 AM"
+
+"Quantitative analysis of Cycling A.Yellow (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Yellow (Page 1)","1","G. Irr Omicron (Alpha ROI Pos. Control)","Unknown","18.68","","","","18.68","","","",""
+"Cycling A.Yellow (Page 1)","2","DN9","Unknown","13.34","","","","13.34","","","",""
+"Cycling A.Yellow (Page 1)","3","DN10","Unknown","37.28","","","","37.28","","","",""
+"Cycling A.Yellow (Page 1)","4","DN11","Unknown","13.91","","","","13.91","","","",""
+"Cycling A.Yellow (Page 1)","5","DN12","Unknown","13.21","","","","13.21","","","",""
+"Cycling A.Yellow (Page 1)","6","DN13","Unknown","13.49","","","","13.49","","","",""
+"Cycling A.Yellow (Page 1)","7","DN14","Unknown","14.13","","","","14.13","","","",""
+"Cycling A.Yellow (Page 1)","8","DN15","Unknown","13.88","","","","13.88","","","",""
+"Cycling A.Yellow (Page 1)","9","DN16","Unknown","14.14","","","","14.14","","","",""
+"Cycling A.Yellow (Page 1)","10","DN17","Unknown","13.81","","","","13.81","","","",""
+"Cycling A.Yellow (Page 1)","11","DN18","Unknown","14.44","","","","14.44","","","",""
+"Cycling A.Yellow (Page 1)","12","DN19","Unknown","18.93","","","","18.93","","","",""
+"Cycling A.Yellow (Page 1)","13","DN20","Unknown","17.61","","","","17.61","","","",""
+"Cycling A.Yellow (Page 1)","14","DN21","Unknown","17.79","","","","17.79","","","",""
+"Cycling A.Yellow (Page 1)","15","DN22","Unknown","17.99","","","","17.99","","","",""
+"Cycling A.Yellow (Page 1)","16","DN23","Unknown","18.39","","","","18.39","","","",""
+"Cycling A.Yellow (Page 1)","17","Assay Control NTC","Unknown","41.68","","","","41.68","","","",""
+"Cycling A.Yellow (Page 1)","18","Lig Control NTC","Unknown","","","","","","","","",""
+"Cycling A.Yellow (Page 1)","19","PCR Control NTC","Unknown","","","","","","","","",""
+"Cycling A.Yellow (Page 1)","20","","Unknown","","","","","","","","",""
+
+
+

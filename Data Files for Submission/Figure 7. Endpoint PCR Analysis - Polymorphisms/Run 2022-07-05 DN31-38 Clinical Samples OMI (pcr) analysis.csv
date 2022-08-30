@@ -1,0 +1,24 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-07-05 DN31-38 Clinical Samples OMI (pcr).rex"
+"Date","7/5/2022"
+"Time","1:50:39 PM"
+
+"Quantitative analysis of Cycling A.Orange (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Orange (Page 1)","1","Pos. Control Omi gRNA","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","2","DN31","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","3","DN32","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","4","DN33","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","5","DN34","Unknown","15.61","","","","15.61","","","",""
+"Cycling A.Orange (Page 1)","6","DN35","Unknown","14.67","","","","14.67","","","",""
+"Cycling A.Orange (Page 1)","7","DN36","Unknown","15.35","","","","15.35","","","",""
+"Cycling A.Orange (Page 1)","8","DN37","Unknown","16.34","","","","16.34","","","",""
+"Cycling A.Orange (Page 1)","9","DN38","Unknown","15.42","","","","15.42","","","",""
+"Cycling A.Orange (Page 1)","10","Assay NTC","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","11","Lig Control","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","12","PCR Control","Unknown","","","","","","","","",""
+
+
+

@@ -1,0 +1,24 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2010 QIAGEN GmbH. All Rights Reserved."
+"File","Run 2022-07-11 DN48-55 Clinical Delta (PCR).rex"
+"Date","7/18/2022"
+"Time","2:59:35 PM"
+
+"Quantitative analysis of Cycling A.Red (Page 1)"
+
+"No.","Name","Type","Ct","Ct Comment","Given Conc (IU/ml)","Calc Conc (IU/ml)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"1","Pos. Control Delta","Unknown","14.33","","","","","14.33","","","",""
+"2","DN48","Unknown","","","","","","","","","",""
+"3","DN49","Unknown","22.89","","","","","22.89","","","",""
+"4","DN50","Unknown","20.21","","","","","20.21","","","",""
+"5","DN51","Unknown","","","","","","","","","",""
+"6","DN52","Unknown","","","","","","","","","",""
+"7","DN53","Unknown","","","","","","","","","",""
+"8","DN54","Unknown","22.96","","","","","22.96","","","",""
+"9","DN55","Unknown","","","","","","","","","",""
+"10","Assay NTC","Unknown","","","","","","","","","",""
+"11","Lig Control","Unknown","","","","","","","","","",""
+"12","PCR Control","Unknown","","","","","","","","","",""
+
+
+

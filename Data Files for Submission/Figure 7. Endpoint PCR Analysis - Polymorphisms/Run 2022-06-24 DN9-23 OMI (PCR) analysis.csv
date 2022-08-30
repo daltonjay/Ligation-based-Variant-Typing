@@ -1,0 +1,32 @@
+"Excel Analysed Data Export"
+"Copyright (c) 2008 Corbett Life Science, a QIAGEN Company. All rights reserved."
+"File","Run 2022-06-24 DN9-23 OMI (PCR).rex"
+"Date","6/24/2022"
+"Time","1:06:49 PM"
+
+"Quantitative analysis of Cycling A.Orange (Page 1)"
+
+"Analysis","No.","Name","Type","Ct","Given Conc (Copies)","Calc Conc (Copies)","% Var","Rep. Ct","Rep. Ct Std. Dev.","Rep. Ct (95% CI)","Rep. Calc. Conc.","Rep. Calc. Conc. (95% CI)"
+"Cycling A.Orange (Page 1)","1","Pos. Control Omi G. Irr","Unknown","14.21","","","","14.21","","","",""
+"Cycling A.Orange (Page 1)","2","DN9","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","3","DN10","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","4","DN11","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","5","DN12","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","6","DN13","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","7","DN14","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","8","DN15","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","9","DN16","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","10","DN17","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","11","DN18","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","12","DN19","Unknown","15.01","","","","15.01","","","",""
+"Cycling A.Orange (Page 1)","13","DN20","Unknown","14.64","","","","14.64","","","",""
+"Cycling A.Orange (Page 1)","14","DN21","Unknown","15.58","","","","15.58","","","",""
+"Cycling A.Orange (Page 1)","15","DN22","Unknown","15.28","","","","15.28","","","",""
+"Cycling A.Orange (Page 1)","16","DN23","Unknown","16.10","","","","16.10","","","",""
+"Cycling A.Orange (Page 1)","17","Assay NTC","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","18","Assay NTC","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","19","Lig NTC","Unknown","","","","","","","","",""
+"Cycling A.Orange (Page 1)","20","PCR NTC","Unknown","","","","","","","","",""
+
+
+
